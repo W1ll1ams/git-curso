@@ -1,0 +1,10 @@
+body {
+  background: #202020;
+  color: white;
+}
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
